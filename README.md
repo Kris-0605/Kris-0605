@@ -3,4 +3,4 @@ Feel free to contribute and/or tell me what I'm doing wrong.
 
 The best way to reach me is @kris_0605 on Discord, I'd love to know how I can improve :)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kris-0605&show_icons=true&locale=en">
+![Kris's Github stats](https://github-readme-stats.vercel.app/api?username=kris-0605)
