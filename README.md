@@ -1,4 +1,4 @@
-I'm Kris, an 18-year-old developer from the UK.
+I'm Kris, a 19-year-old developer from the UK.
 
 The best way to reach me is @kris_0605 on Discord, feel free to reach out :)
 
